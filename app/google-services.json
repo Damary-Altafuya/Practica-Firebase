@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253059886378",
+    "project_id": "movil-b0269",
+    "storage_bucket": "movil-b0269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253059886378:android:6b63405fdb6c3bbe264253",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQq5M89232hjPVnBQTPM1E5sPRGSxwmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
